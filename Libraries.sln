@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Libraries", "Libraries\Libraries.csproj", "{F98EBFA2-09FB-488E-A402-9C23E8DDCCE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InputHooker", "InputHooker\InputHooker.csproj", "{2A11B511-B752-48D1-9C7F-5776FDD101AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F98EBFA2-09FB-488E-A402-9C23E8DDCCE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F98EBFA2-09FB-488E-A402-9C23E8DDCCE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F98EBFA2-09FB-488E-A402-9C23E8DDCCE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F98EBFA2-09FB-488E-A402-9C23E8DDCCE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A11B511-B752-48D1-9C7F-5776FDD101AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A11B511-B752-48D1-9C7F-5776FDD101AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A11B511-B752-48D1-9C7F-5776FDD101AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A11B511-B752-48D1-9C7F-5776FDD101AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
