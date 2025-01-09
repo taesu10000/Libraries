@@ -7,7 +7,7 @@ using System.Reflection;
 using System.Runtime.Serialization.Formatters.Binary;
 
 
-namespace DominoFunctions.ExtensionMethod
+namespace Functions.ExtensionMethod
 {
     public static class ClassExtenstion
     {
